@@ -7,3 +7,8 @@
   @include base-section;
   background-image: url("../img/img-2.jpg");
 }
+
+.section-sun {
+  @include base-section;
+  background-image: url("../img/img-3.jpg");
+}
