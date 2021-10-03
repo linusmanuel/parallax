@@ -1,6 +1,6 @@
 .section-ballon {
   @include base-section;
-  background-image: url("../img/img-8.jpg");
+  background-image: url("../img/img-1.jpg");
 }
 
 .section-street {
@@ -11,4 +11,9 @@
 .section-sun {
   @include base-section;
   background-image: url("../img/img-3.jpg");
+}
+
+.section-mountain {
+  @include base-section;
+  background-image: url("../img/img-8.jpg");
 }
