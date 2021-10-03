@@ -1,0 +1,23 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "Simple parallax efects",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Linus Manuel",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "node-sass": "^6.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "parallax"
+  },
+  "keywords": [
+    "parallax"
+  ]
+}
