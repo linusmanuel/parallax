@@ -1,4 +1,5 @@
 @mixin base-section {
+  position: relative;
   height: 100vh;
   background-size: cover;
   background-position: center;

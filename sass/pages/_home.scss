@@ -1,5 +1,9 @@
 .section-ballon {
   @include base-section;
-  position: relative;
   background-image: url("../img/img-8.jpg");
+}
+
+.section-street {
+  @include base-section;
+  background-image: url("../img/img-2.jpg");
 }
